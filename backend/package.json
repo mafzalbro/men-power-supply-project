@@ -1,0 +1,19 @@
+{
+  "name": "men-power-supply-project",
+  "version": "1.0.0",
+  "description": "This is the project for men power supply!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafzalbro/men-power-supply-project.git"
+  },
+  "author": "M. Afzal",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mafzalbro/men-power-supply-project/issues"
+  },
+  "homepage": "https://github.com/mafzalbro/men-power-supply-project#readme"
+}
